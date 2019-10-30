@@ -1,0 +1,11 @@
+div{
+    margin: auto;
+    width: 555px;
+}
+table {
+    width: auto;
+}
+.tableHeader {
+    font-weight: bold;
+    font-size: large;
+}
