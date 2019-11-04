@@ -5,13 +5,13 @@ let html_table = document.getElementById('table');
 
 
 class Player {
-  constructor(rank, name, elo, wins, losses, ties, top10Wins) {
+  constructor(rank, name, elo, wins, ties, losses, top10Wins) {
     this.rank = rank;
     this.name = name;
     this.elo = elo;
     this.wins = wins;
-    this.losses = losses;
     this.ties = ties;
+    this.losses = losses;
     this.top10Wins = top10Wins;
   }
 
@@ -29,16 +29,16 @@ class Player {
     name.innerHTML = this.name;
     elo.innerHTML = this.elo;
     wins.innerHTML = this.wins;
-    losses.innerHTML = this.losses;
     ties.innerHTML = this.ties;
+    losses.innerHTML = this.losses;
     top10Wins.innerHTML = this.top10Wins;
 
     tableRow.appendChild(rank);
     tableRow.appendChild(name);
     tableRow.appendChild(elo);
     tableRow.appendChild(wins);
-    tableRow.appendChild(losses);
     tableRow.appendChild(ties);
+    tableRow.appendChild(losses);
     tableRow.appendChild(top10Wins);
 
     html_table.appendChild(tableRow);
