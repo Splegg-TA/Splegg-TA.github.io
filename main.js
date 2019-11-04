@@ -54,7 +54,7 @@ function loadDoc() {
       rawDataToClass();
     }
   };
-  xhttp.open("GET", "Players.txt", true);
+  xhttp.open("GET", "Text/Players.txt", true);
   xhttp.send();
 }
 
