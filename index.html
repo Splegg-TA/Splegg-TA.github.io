@@ -1,32 +1,54 @@
+<!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
     <title>Splegg Tournament Association</title>
-    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="stylesheet.css" />
     <script src="main.js" defer></script>
-    <link rel="icon" href="Pictures/minecraftShovel.png">
-</head>
+    <link
+      href="https://fonts.googleapis.com/css?family=Aldrich"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="Pictures/minecraftShovel.png" />
+  </head>
 
-<body>
+  <body>
     <div class="siteContainer">
-        <h1>Splegg Tournament 1v1 ELO ratings</h1>
-        <p>The following table lists every player who has ever participated in an official STA tournament. Matches that happened outside of STA tournaments will not be counted - neither will matches that have been played in any previous tournaments due to a lack of regulations, comparability and objectivity. A match counts once at least 1 round has officially been played. Matches in which the opponent has violated rule No. 3 (used any kind of illegal 3rd party programs) do not count. </p>
-        <p>The official STA team ELO ratings - matches that include more than 2 players - can be found here. Team ELO is calculated seperately.</p>
-        <p>The ratings solely depend on who you play. The round, tournament and/or circumstances are irrelevant and do not affect the ELO standings at all. Currently the classic ELO-rating method by Arpad Elo is being used with k=40 and the range (divisor) being 300.</p>
-        <i>Updates happen after every tournament stage. Last update: 1-10-2019 (CET)</i>
-        <table id="table">
-            <tr>
-                <td class="tableHeader">Rank</td>
-                <td class="tableHeader">Player</td>
-                <td class="tableHeader">Elo</td>
-                <td class="tableHeader">Wins</td>
-                <td class="tableHeader">Ties</td>
-                <td class="tableHeader">Losses</td>
-                <td class="tableHeader">Top10 Wins</td>
-            </tr>
-        </table>
+      <h1>STA ELO ratings</h1>
+      <p>
+        The following table lists every player who has ever participated in an
+        official STA tournament. Matches that happened outside of STA
+        tournaments will not be counted - neither will matches that have been
+        played in any previous tournaments due to a lack of regulations,
+        comparability and objectivity. A match counts once at least 1 round has
+        officially been played. Matches in which the opponent has violated rule
+        No. 3 (used any kind of illegal 3rd party programs) do not count.
+      </p>
+      <p>
+        The official STA team ELO ratings - matches that include more than 2
+        players - can be found here. Team ELO is calculated seperately.
+      </p>
+      <p>
+        The ratings solely depend on who you play. The round, tournament and/or
+        circumstances are irrelevant and do not affect the ELO standings at all.
+        Currently the classic ELO-rating method by Arpad Elo is being used with
+        k=40 and the range (divisor) being 300.
+      </p>
+      <p class="italic">
+        Updates happen after every tournament stage. Last update: 1-10-2019
+        (CET)
+      </p>
+      <table id="table">
+        <tr>
+          <td class="tableHeader">Rank</td>
+          <td class="tableHeader">Player</td>
+          <td class="tableHeader">Elo</td>
+          <td class="tableHeader">Wins</td>
+          <td class="tableHeader">Ties</td>
+          <td class="tableHeader">Losses</td>
+          <td class="tableHeader">Top10 Wins</td>
+        </tr>
+      </table>
     </div>
-</body>
-
+  </body>
 </html>
