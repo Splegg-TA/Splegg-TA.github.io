@@ -1,11 +1,9 @@
-body {
+.italic {
+  font-style: italic;
+}
+.siteContainer {
   font-family: Aldrich;
   text-align: center;
-}
-.italic {
-    font-style: italic;
-}
-div {
   margin: auto;
   width: 555px;
 }
