@@ -5,6 +5,7 @@
     <title>Splegg Tournament Association</title>
     <link rel="stylesheet" href="stylesheet.css" />
     <script src="main.js" defer></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
     <link
       href="https://fonts.googleapis.com/css?family=Aldrich"
       rel="stylesheet"
@@ -44,6 +45,9 @@
         Updates happen after every tournament stage. Last update: 1-10-2019
         (CET)
       </p>
+      <br />
+      <p id="searchP">Search for your name in the table</p>
+      <input id="myInput" type="text" placeholder="Search.." />
       <table id="table">
         <tr>
           <td class="tableHeader">Rank</td>
@@ -55,6 +59,12 @@
           <td class="tableHeader">Top10Wins</td>
         </tr>
       </table>
+
+      <br />
+        <div id="specialStatsDiv">
+          <h3>Special Statistics</h3>
+          <br />
+      </div>
     </div>
   </body>
 </html>

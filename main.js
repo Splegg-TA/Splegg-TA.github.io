@@ -24,6 +24,9 @@ class Player {
     let ties = document.createElement("td");
     let top10Wins = document.createElement("td");
 
+    tableRow.setAttribute("class", "content");
+    name.setAttribute("class", "playerNames");
+
     rank.innerHTML = this.rank;
     name.innerHTML = this.name;
     elo.innerHTML = this.elo;
@@ -83,6 +86,37 @@ function js_table_to_html_table() {
   for (let i = 0; i < js_table.length; i++) {
     js_table[i].populate_html_table();
   }
+  $(".playerNames").wrap("<a href='PlayerInfo/index.html'></a>");
 }
 
 loadDoc();
+$("#specialStats").load("Text/Special-Stats.txt");
+
+$(document).ready(function() {
+  $("#myInput").on("keyup", function() {
+    var value = $(this)
+      .val()
+      .toLowerCase();
+    $("#table tr.content").filter(function() {
+      $(this).toggle(
+        $(this)
+          .text()
+          .toLowerCase()
+          .indexOf(value) > -1
+      );
+    });
+  });
+});
+
+$.getJSON("Text/Special-Stats.json", function(data) {
+  var items = [];
+  $.each(data, function(key, val) {
+    items.push("<p id='" + key + "'>" + key + " : " + val + "</p>");
+  });
+
+  $("<div/>", {
+    class: "Special-Stats",
+    html: items.join("")
+  }).appendTo("#specialStatsDiv");
+});
+
