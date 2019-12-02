@@ -887,3 +887,15 @@ Juracan(1078 - 4)   3 - 3   EvilGuyy(1022 + 4)  SST2019
 EatMarkers(886 + 25)   4 - 2   Pebbalz(958 - 25)  SST2019
 de_(1162 + 16)   4 - 2   Joost(1118 - 16)  SST2019_FS
 Juracan(1074 + 28)   4 - 3   MoosyDoosy(1188 - 28)  SST2019_FS    Top10 Win 
+HDRedHDH3X(1070 + 20)   4 - 0   fixt(1073 - 20)  SST2019_FS
+Shaxd(1145 + 9)   4 - 0   Chubeh(993 - 9)  SST2019_FS
+Chuggins(1126 + 18)   4 - 0   jvey(1107 - 18)  SST2019_FS
+ivan646(1132 + 20)   4 - 2   Skroks(1135 - 20)  SST2019_FS    Top10 Win 
+Samme1(1224 + 7)   4 - 2   EvilGuyy(1026 - 7)  SST2019_FS
+Shaxd(1154 + 19)   4 - 3   ivan646(1152 - 19)  SST2019_FS    Top10 Win 
+de_(1178 + 14)   4 - 0   Juracan(1102 - 14)  SST2019_FS
+Chuggins(1144 + 27)   4 - 2   Floras(1243 - 27)  SST2019_FS    Top10 Win 
+Samme1(1231 + 10)   4 - 1   HDRedHDH3X(1090 - 10)  SST2019_FS
+Samme1(1241 + 16)   4 - 3   de_(1192 - 16)  SST2019_FS    Top10 Win 
+Chuggins(1171 + 20)   4 - 2   Shaxd(1173 - 20)  SST2019_FS    Top10 Win 
+Chuggins(1191 + 24)   4 - 0   Samme1(1257 - 24)  SST2019_FS    Top10 Win 
