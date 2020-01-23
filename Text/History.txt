@@ -899,3 +899,45 @@ Samme1(1231 + 10)   4 - 1   HDRedHDH3X(1090 - 10)  SST2019_FS
 Samme1(1241 + 16)   4 - 3   de_(1192 - 16)  SST2019_FS    Top10 Win 
 Chuggins(1171 + 20)   4 - 2   Shaxd(1173 - 20)  SST2019_FS    Top10 Win 
 Chuggins(1191 + 24)   4 - 0   Samme1(1257 - 24)  SST2019_FS    Top10 Win 
+EatMarkers(911 + 33)   3 - 2   ivan646(1133 - 33)  SWC2020    Top10 Win 
+Floras(1216 + 7)   3 - 1   Jakubusso(1029 - 7)  SWC2020
+Skroks(1115 + 27)   3 - 1   Floras(1223 - 27)  SWC2020    Top10 Win 
+ExodePendragon(1088 + 9)   3 - 0   EatMarkers(944 - 9)  SWC2020
+ivan646(1100 + 19)   3 - 2   ExodePendragon(1097 - 19)  SWC2020
+Kikita(1015 + 20)   3 - 0   Jakubusso(1022 - 20)  SWC2020
+Chuggins(1215 + 5)   3 - 0   Kaatrine(979 - 5)  SWC2020
+Zumbeh(1094 + 13)   3 - 0   Kopites(1000 - 13)  SWC2020
+Joost(1102 + 10)   3 - 1   Kaatrine(974 - 10)  SWC2020
+Joost(1112 + 27)   3 - 1   Chuggins(1220 - 27)  SWC2020    Top10 Win 
+LordPepsy(1083 + 13)   3 - 0   CianV(1000 - 13)  SWC2020
+Samme1(1233 + 4)   3 - 0   Larryzona(954 - 4)  SWC2020
+MoosyDoosy(1160 + 9)   3 - 0   Zoli(1000 - 9)  SWC2020
+Floras(1196 + 9)   3 - 1   Kikita(1035 - 9)  SWC2020
+Modges(1000 + 26)   3 - 1   Juracan(1088 - 26)  SWC2020
+Juracan(1062 + 7)   3 - 2   Josher(866 - 7)  SWC2020
+de_(1176 + 7)   3 - 0   CianV(987 - 7)  SWC2020
+MoosyDoosy(1169 + 8)   3 - 1   Yukno(1000 - 8)  SWC2020
+Yukno(992 + 19)   3 - 1   Zoli(991 - 19)  SWC2020
+Ezkimo(1152 + 11)   3 - 1   Modges(1026 - 11)  SWC2020
+Conga_(1109 + 9)   3 - 1   Larryzona(950 - 9)  SWC2020
+ShadowFlames(1031 + 13)   3 - 0   Larryzona(941 - 13)  SWC2020
+de_(1183 + 13)   3 - 2   LordPepsy(1096 - 13)  SWC2020
+Modges(1015 + 9)   3 - 0   Josher(859 - 9)  SWC2020
+Shaxd(1153 + 16)   3 - 1   Zumbeh(1107 - 16)  SWC2020
+Aggressive(1124 + 9)   3 - 0   Zoli(972 - 9)  SWC2020
+Yukno(1011 + 28)   3 - 0   Aggressive(1133 - 28)  SWC2020
+Skroks(1142 + 10)   3 - 0   Jakubusso(1002 - 10)  SWC2020
+Samme1(1237 + 11)   3 - 2   Conga_(1118 - 11)  SWC2020
+DrJDiamond(1043 + 12)   3 - 0   EatMarkers(935 - 12)  SWC2020
+CianV(980 + 12)   3 - 1   larrythecableguy(883 - 12)  SWC2020
+de_(1196 + 3)   3 - 0   larrythecableguy(871 - 3)  SWC2020
+LordPepsy(1083 + 6)   3 - 2   larrythecableguy(868 - 6)  SWC2020
+Ezkimo(1163 + 13)   3 - 0   Juracan(1069 - 13)  SWC2020
+Shaxd(1169 + 13)   3 - 0   HDRedHDH3X(1080 - 13)  SWC2020
+HDRedHDH3X(1067 + 14)   3 - 0   Kopites(987 - 14)  SWC2020
+Zumbeh(1091 + 19)   3 - 2   HDRedHDH3X(1081 - 19)  SWC2020
+Shaxd(1182 + 6)   3 - 1   Kopites(973 - 6)  SWC2020
+ShadowFlames(1044 + 33)   3 - 2   Samme1(1248 - 33)  SWC2020    Top10 Win 
+DolanBoi(1000 + 14)   3 - 2   EatMarkers(923 - 14)  SWC2020
+ivan646(1119 + 12)   3 - 0   DolanBoi(1014 - 12)  SWC2020
+ExodePendragon(1078 + 14)   3 - 0   DolanBoi(1002 - 14)  SWC2020
