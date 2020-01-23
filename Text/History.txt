@@ -18,9 +18,9 @@ Atramensia(999 + 20)   3 - 0   Obill(1000 - 20)  SST2017
 Cenyth(980 + 18)   3 - 0   cripps96(962 - 18)  SST2017
 Cenyth(998 + 20)   3 - 0   aQuickSloth(1000 - 20)  SST2017
 Atramensia(1019 + 18)   3 - 1   MpKnife(1000 - 18)  SST2017
-Skefull(1020 + 18)   3 - 0   Larrythecableguy(1000 - 18)  SST2017
+Skefull(1020 + 18)   3 - 0   larrythecableguy(1000 - 18)  SST2017
 GSPoland(1000 + 22)   3 - 1   Skefull(1038 - 22)  SST2017
-GSPoland(1022 + 16)   3 - 0   Larrythecableguy(982 - 16)  SST2017
+GSPoland(1022 + 16)   3 - 0   larrythecableguy(982 - 16)  SST2017
 PigJesus(1020 + 21)   3 - 1   GSPoland(1038 - 21)  SST2017
 Isterah(983 + 18)   3 - 1   Mekkel_(964 - 18)  SST2017
 Isterah(1001 + 18)   3 - 2   Shironu(980 - 18)  SST2017
@@ -30,8 +30,8 @@ PigJesus(1059 + 14)   3 - 0   Spawler(980 - 14)  SST2017
 GSPoland(1017 + 18)   3 - 0   Kaatrine(1000 - 18)  SST2017
 Skefull(1016 + 17)   3 - 0   Kaatrine(982 - 17)  SST2017
 Skefull(1033 + 23)   3 - 2   PigJesus(1073 - 23)  SST2017
-Zumbae(1000 + 20)   3 - 1   e_0(1000 - 20)  SST2017
-Zumbae(1020 + 18)   3 - 1   Neil_(1000 - 18)  SST2017
+Zumbeh(1000 + 20)   3 - 1   e_0(1000 - 20)  SST2017
+Zumbeh(1020 + 18)   3 - 1   Neil_(1000 - 18)  SST2017
 iMincraft(1031 + 19)   3 - 1   Caiitt(1018 - 19)  SST2017
 e_0(980 + 23)   3 - 0   Chubeh(1020 - 23)  SST2017
 GSPoland(1035 + 17)   3 - 2   OmgItsNavel(1000 - 17)  SST2017
@@ -49,8 +49,8 @@ wolphe(1000 + 17)   3 - 2   Shironu(962 - 17)  SST2017
 Aggressive(1024 + 14)   3 - 0   Shironu(945 - 14)  SST2017
 MoosyDoosy(995 + 16)   3 - 1   cripps96(944 - 16)  SST2017
 LordPepsy(1018 + 18)   3 - 1   Aeudus(1000 - 18)  SST2017
-Zumbae(1038 + 16)   3 - 0   Chubeh(997 - 16)  SST2017
-Zumbae(1054 + 18)   3 - 0   LordPepsy(1036 - 18)  SST2017
+Zumbeh(1038 + 16)   3 - 0   Chubeh(997 - 16)  SST2017
+Zumbeh(1054 + 18)   3 - 0   LordPepsy(1036 - 18)  SST2017
 Kikita(980 + 22)   3 - 1   LordPepsy(1018 - 22)  SST2017
 ExodePendragon(962 + 22)   3 - 0   Tadatomo(1000 - 22)  SST2017
 _Rister_(1000 + 16)   3 - 1   Koocoo(948 - 16)  SST2017
@@ -64,10 +64,10 @@ Chubeh(981 + 17)   3 - 2   Neil_(947 - 17)  SST2017
 wolphe(1017 + 20)   3 - 2   Isterah(1019 - 20)  SST2017
 iMincraft(1050 + 19)   3 - 2   wolphe(1037 - 19)  SST2017
 Chubeh(998 + 18)   3 - 0   Aeudus(982 - 18)  SST2017
-Zumbae(1072 + 12)   3 - 0   Aeudus(964 - 12)  SST2017
+Zumbeh(1072 + 12)   3 - 0   Aeudus(964 - 12)  SST2017
 Kikita(1002 + 16)   3 - 1   Aeudus(952 - 16)  SST2017
 OmgItsNavel(969 + 26)   3 - 1   PigJesus(1050 - 26)  SST2017
-Salchi(1000 + 21)   3 - 0   Chubeh(1016 - 21)  SST2017
+salchi(1000 + 21)   3 - 0   Chubeh(1016 - 21)  SST2017
 Cenyth(1038 + 17)   3 - 2   ATopDonkey(1000 - 17)  SST2017
 Skefull(1070 + 11)   3 - 0   SeriousGabry(949 - 11)  SST2017
 Ezkimo(1000 + 19)   3 - 1   Ponyah(999 - 19)  SST2017
@@ -93,16 +93,16 @@ Fedey(1033 + 19)   3 - 0   Obill(1023 - 19)  SST2017
 LordPepsy(1015 + 18)   3 - 0   e_0(1001 - 18)  SST2017
 Diamanten999(979 + 15)   3 - 0   cripps96(914 - 15)  SST2017
 Shaxd(1054 + 16)   3 - 2   FatherDoug(1008 - 16)  SST2017
-Salchi(1021 + 20)   3 - 2   LordPepsy(1033 - 20)  SST2017
+salchi(1021 + 20)   3 - 2   LordPepsy(1033 - 20)  SST2017
 FatherDoug(992 + 22)   3 - 1   MoosyDoosy(1027 - 22)  SST2017
 FatherDoug(1014 + 24)   3 - 1   Cenyth(1070 - 24)  SST2017
-Larrythecableguy(966 + 17)   3 - 2   SeriousGabry(938 - 17)  SST2017
-Salchi(1041 + 11)   3 - 1   Neil_(917 - 11)  SST2017
-OmgItsNavel(1012 + 17)   3 - 1   Larrythecableguy(983 - 17)  SST2017
+larrythecableguy(966 + 17)   3 - 2   SeriousGabry(938 - 17)  SST2017
+salchi(1041 + 11)   3 - 1   Neil_(917 - 11)  SST2017
+OmgItsNavel(1012 + 17)   3 - 1   larrythecableguy(983 - 17)  SST2017
 OmgItsNavel(1029 + 12)   3 - 0   SeriousGabry(921 - 12)  SST2017
 Shironu(931 + 25)   3 - 2   Caiitt(999 - 25)  SST2017
 e_0(983 + 16)   3 - 0   Aeudus(936 - 16)  SST2017
-Kaatrine(948 + 21)   3 - 0   Larrythecableguy(966 - 21)  SST2017
+Kaatrine(948 + 21)   3 - 0   larrythecableguy(966 - 21)  SST2017
 ExodePendragon(984 + 22)   3 - 2   Ezkimo(1019 - 22)  SST2017
 Aggressive(1038 + 15)   3 - 1   Caiitt(974 - 15)  SST2017
 Aggressive(1053 + 15)   3 - 2   Isterah(999 - 15)  SST2017
@@ -137,11 +137,11 @@ SeriousGabry(951 + 25)   3 - 1   Cenyth(1025 - 25)  SST2017
 LordPepsy(1013 + 23)   3 - 2   de_(1054 - 23)  SST2017_FS    Top10 Win 
 LordPepsy(1036 + 20)   3 - 1   MoosyDoosy(1048 - 20)  SST2017_FS
 FatherDoug(1058 + 23)   3 - 2   Joost(1100 - 23)  SST2017_FS    Top10 Win 
-Zumbae(1084 + 14)   2 - 0   Ezkimo(1014 - 14)  SST2017_FS
+Zumbeh(1084 + 14)   2 - 0   Ezkimo(1014 - 14)  SST2017_FS
 GSPoland(1054 - 21)   2 - 3   OmgItsNavel(1038 + 21)  SST2017    Top10 Win 
 de_(1031 + 21)   3 - 0   Kikita(1051 - 21)  SST2017
 Ezkimo(1000 + 18)   3 - 0   SeriousGabry(976 - 18)  SST2017
-Shaxd(1082 + 21)   3 - 0   Zumbae(1098 - 21)  SST2017_FS    Top10 Win 
+Shaxd(1082 + 21)   3 - 0   Zumbeh(1098 - 21)  SST2017_FS    Top10 Win 
 iMincraft(1081 + 14)   3 - 1   ExodePendragon(1007 - 14)  SST2017
 de_(1052 + 20)   3 - 2   OmgItsNavel(1059 - 20)  SST2017    Top10 Win 
 iMincraft(1095 + 14)   3 - 0   MoosyDoosy(1028 - 14)  SST2017
@@ -159,7 +159,7 @@ Cyanize(1000 + 20)   3 - 1   ShadowFlames(1000 - 20)  SWC2018_QS
 ShadowFlames(980 + 21)   3 - 2   Hoopdini(1000 - 21)  SWC2018_QS
 Shaxd(1080 + 12)   3 - 0   Kaatrine(970 - 12)  SWC2018
 ThugAppl(998 + 22)   3 - 0   Cenyth(1036 - 22)  SWC2018
-Zumbae(1077 + 14)   3 - 1   Spleefer(1000 - 14)  SWC2018
+Zumbeh(1077 + 14)   3 - 1   Spleefer(1000 - 14)  SWC2018
 de_(1072 - 3)   2 - 2   Cyanize(1020 + 3)  SWC2018
 Skefull(1077 + 14)   3 - 1   Lunrr(1000 - 14)  SWC2018
 ExodePendragon(1033 + 24)   3 - 1   Shaxd(1092 - 24)  SWC2018    Top10 Win 
@@ -168,25 +168,25 @@ Sepulchers(1000 + 0)   2 - 2   Porkeroni(1000 + 0)  SWC2018
 Chubeh(958 + 22)   3 - 1   Spleefer(986 - 22)  SWC2018
 jvey(1000 + 20)   3 - 0   Foofa(1001 - 20)  SWC2018
 Chubeh(980 - 1)   2 - 2   ItsGili(962 + 1)  SWC2018
-Zumbae(1091 + 11)   3 - 1   Chubeh(979 - 11)  SWC2018
-ExodePendragon(1057 + 15)   3 - 0   josher17(1000 - 15)  SWC2018
+Zumbeh(1091 + 11)   3 - 1   Chubeh(979 - 11)  SWC2018
+ExodePendragon(1057 + 15)   3 - 0   Josher(1000 - 15)  SWC2018
 ExodePendragon(1072 + 11)   3 - 0   Kaatrine(958 - 11)  SWC2018
 Aggressive(1084 + 13)   3 - 1   Porkeroni(1000 - 13)  SWC2018
 MoomootheKitty(1000 + 19)   3 - 1   Porkeroni(987 - 19)  SWC2018
 ExodePendragon(1083 + 11)   3 - 0   SheriffCy(963 - 11)  SWC2018
-Shaxd(1068 - 6)   2 - 2   josher17(985 + 6)  SWC2018
+Shaxd(1068 - 6)   2 - 2   Josher(985 + 6)  SWC2018
 Joost(1077 + 15)   3 - 0   ThugAppl(1020 - 15)  SWC2018
-Kaatrine(947 + 3)   2 - 2   josher17(991 - 3)  SWC2018
+Kaatrine(947 + 3)   2 - 2   Josher(991 - 3)  SWC2018
 Cenyth(1014 + 19)   3 - 0   ShadowFlames(1001 - 19)  SWC2018
 de_(1069 + 21)   3 - 1   Skefull(1091 - 21)  SWC2018    Top10 Win 
 Koocoo(900 + 26)   3 - 1   Foofa(981 - 26)  SWC2018
-Zumbae(1102 + 10)   3 - 1   ItsGili(963 - 10)  SWC2018
+Zumbeh(1102 + 10)   3 - 1   ItsGili(963 - 10)  SWC2018
 Aggressive(1097 + 12)   3 - 1   Sepulchers(1000 - 12)  SWC2018
 Zyniac(1000 + 14)   3 - 0   Koocoo(926 - 14)  SWC2018
 jvey(1020 + 19)   3 - 0   Zyniac(1014 - 19)  SWC2018
 Koocoo(912 + 9)   2 - 2   jvey(1039 - 9)  SWC2018
 Ethan2098(1032 + 17)   3 - 1   minevova(1000 - 17)  SWC2018
-Zumbae(1112 + 12)   3 - 1   Atramensia(1015 - 12)  SWC2018
+Zumbeh(1112 + 12)   3 - 1   Atramensia(1015 - 12)  SWC2018
 Cenyth(1033 + 4)   2 - 2   Joost(1092 - 4)  SWC2018
 Aggressive(1109 + 12)   3 - 0   Irtler(1000 - 12)  SWC2018
 Spleefer(964 + 19)   3 - 0   ItsGili(953 - 19)  SWC2018
@@ -210,7 +210,7 @@ GSPoland(1033 + 17)   3 - 0   brxnn(1002 - 17)  SWC2018
 Ezkimo(1041 + 14)   3 - 1   Jasco(969 - 14)  SWC2018
 Ethan2098(1046 + 20)   3 - 1   GSPoland(1050 - 20)  SWC2018
 GSPoland(1030 + 20)   3 - 1   100YearsLater(1033 - 20)  SWC2018
-josher17(988 - 5)   2 - 2   SheriffCy(921 + 5)  SWC2018
+Josher(988 - 5)   2 - 2   SheriffCy(921 + 5)  SWC2018
 MoomootheKitty(1007 + 16)   3 - 1   Irtler(967 - 16)  SWC2018
 Atramensia(982 - 1)   2 - 2   Chubeh(968 + 1)  SWC2018
 ItsGili(934 + 23)   3 - 1   Atramensia(981 - 23)  SWC2018
@@ -219,10 +219,10 @@ jvey(1030 + 19)   3 - 0   MoomootheKitty(1023 - 19)  SWC2018_FS
 Ethan2098(1066 + 15)   3 - 1   Spleefer(1004 - 15)  SWC2018_FS
 ExodePendragon(1094 + 19)   3 - 1   Ethan2098(1081 - 19)  SWC2018_FS    Top10 Win 
 de_(1090 + 16)   3 - 1   OmgItsNavel(1046 - 16)  SWC2018_FS
-Zumbae(1124 + 14)   3 - 2   GSPoland(1050 - 14)  SWC2018_FS
+Zumbeh(1124 + 14)   3 - 2   GSPoland(1050 - 14)  SWC2018_FS
 Skefull(1099 + 16)   3 - 1   Ezkimo(1055 - 16)  SWC2018_FS
 jvey(1049 + 24)   3 - 1   Skefull(1115 - 24)  SWC2018_FS    Top10 Win 
-Shaxd(1094 + 23)   3 - 2   Zumbae(1138 - 23)  SWC2018_FS    Top10 Win 
+Shaxd(1094 + 23)   3 - 2   Zumbeh(1138 - 23)  SWC2018_FS    Top10 Win 
 jvey(1073 + 23)   3 - 0   ExodePendragon(1113 - 23)  SWC2018_FS    Top10 Win 
 Aggressive(1133 + 17)   3 - 1   de_(1106 - 17)  SWC2018_FS    Top10 Win 
 Aggressive(1150 + 17)   3 - 0   Shaxd(1117 - 17)  SWC2018_FS    Top10 Win 
@@ -282,11 +282,11 @@ Chubeh(969 + 6)   2 - 2   Ethan2098(1062 - 6)  SM_D7
 Chubeh(975 + 1)   2 - 2   Katsuyori(1000 - 1)  SM_D7
 Ethan2098(1056 + 15)   3 - 0   Sweanz(1000 - 15)  SM_D7
 Sweanz(985 + 0)   2 - 2   Chubeh(976 + 0)  SM_D7
-Zumbae(1115 + 11)   3 - 1   Chaii__(1000 - 11)  SM_D6
+Zumbeh(1115 + 11)   3 - 1   Chaii__(1000 - 11)  SM_D6
 xYami_(1000 + 20)   3 - 1   Aeqi(1000 - 20)  SM_D6
-Zumbae(1126 + 12)   3 - 0   xYami_(1020 - 12)  SM_D6
-Zumbae(1138 + 9)   3 - 1   Aeqi(980 - 9)  SM_D6
-Zumbae(1147 + 9)   3 - 0   Hawking1337(1000 - 9)  SM_D6
+Zumbeh(1126 + 12)   3 - 0   xYami_(1020 - 12)  SM_D6
+Zumbeh(1138 + 9)   3 - 1   Aeqi(980 - 9)  SM_D6
+Zumbeh(1147 + 9)   3 - 0   Hawking1337(1000 - 9)  SM_D6
 Aeqi(971 + 1)   2 - 2   Chaii__(989 - 1)  SM_D6
 Neil_(916 + 6)   2 - 2   Samme1(1000 - 6)  SM_D8
 Samme1(994 + 20)   3 - 0   MoomootheKitty(1004 - 20)  SM_D8
@@ -308,9 +308,9 @@ Shaxd(1087 + 13)   3 - 0   Timmetatsch(1001 - 13)  SM_D9
 Shaxd(1100 - 9)   2 - 2   Sxmi(961 + 9)  SM_D9
 Sxmi(970 + 22)   3 - 1   IntoThat(1001 - 22)  SM_D9
 Zyniac(995 - 3)   2 - 2   Caiitt(947 + 3)  SM_D10
-salchi(1000 + 0)   2 - 2   Zyniac(992 + 0)  SM_D10
-Zyniac(992 + 20)   3 - 0   th1ngy(1000 - 20)  SM_D10
-Caiitt(950 + 3)   2 - 2   salchi(1000 - 3)  SM_D10
+salchi(1052 - 4)   2 - 2   Zyniac(992 + 4)  SM_D10
+Zyniac(996 + 20)   3 - 0   th1ngy(1000 - 20)  SM_D10
+Caiitt(950 + 7)   2 - 2   salchi(1048 - 7)  SM_D10
 ImDualley(983 + 1)   2 - 2   AlwaysFaithful(1000 - 1)  SM_D11
 ImDualley(984 + 21)   3 - 0   Xternal(1000 - 21)  SM_D11
 AlwaysFaithful(999 - 1)   2 - 2   Xternal(979 + 1)  SM_D11
@@ -348,15 +348,15 @@ Savaroni(1001 + 17)   3 - 1   DarthTristen(966 - 17)  SM_D14
 Savaroni(1018 - 3)   2 - 2   e_0(967 + 3)  SM_D14
 DarthTristen(949 + 1)   2 - 2   e_0(970 - 1)  SM_D14
 MoosyDoosy(1047 - 2)   2 - 2   Savaroni(1015 + 2)  SM_D14
-ItsGili(957 + 21)   3 - 1   josher17(983 - 21)  SM_D15
-iMincraft(1109 + 9)   3 - 0   josher17(962 - 9)  SM_D15
+ItsGili(957 + 21)   3 - 1   Josher(983 - 21)  SM_D15
+iMincraft(1109 + 9)   3 - 0   Josher(962 - 9)  SM_D15
 ItsGili(978 + 19)   3 - 1   Kaatrine(969 - 19)  SM_D15
 iMincraft(1118 + 8)   3 - 0   Kaatrine(950 - 8)  SM_D15
 iMincraft(1126 + 10)   3 - 0   ItsGili(997 - 10)  SM_D15
 iMincraft(1136 + 7)   3 - 0   Ponyah(936 - 7)  SM_D15
 ItsGili(987 + 15)   3 - 0   Ponyah(929 - 15)  SM_D15
-Kaatrine(942 + 20)   3 - 1   josher17(953 - 20)  SM_D15
-josher17(933 - 1)   2 - 2   Ponyah(914 + 1)  SM_D15
+Kaatrine(942 + 20)   3 - 1   Josher(953 - 20)  SM_D15
+Josher(933 - 1)   2 - 2   Ponyah(914 + 1)  SM_D15
 Kaatrine(962 - 3)   2 - 2   Ponyah(915 + 3)  SM_D15
 SadLxve(1000 + 4)   2 - 2   Joost(1061 - 4)  SM_D16
 Joost(1057 + 15)   3 - 0   JimmyBeeEclipse(1000 - 15)  SM_D16
@@ -367,11 +367,11 @@ The_BloodHound(1004 + 1)   2 - 2   SadLxve(1022 - 1)  SM_D16
 Joost(1086 - 3)   2 - 2   JumboTwister(1035 + 3)  SM
 jvey(1124 - 5)   2 - 2   Samme1(1048 + 5)  SM
 Alchemy(1055 + 20)   3 - 1   Floras(1066 - 20)  SM
-Conga_(1032 + 28)   3 - 0   Zumbae(1156 - 28)  SM    Top10 Win 
+Conga_(1032 + 28)   3 - 0   Zumbeh(1156 - 28)  SM    Top10 Win 
 ExodePendragon(1098 + 19)   3 - 1   Shaxd(1091 - 19)  SM    Top10 Win 
 AlwaysFaithful(998 + 4)   2 - 2   TheMadHatter(1060 - 4)  SM
 BioBioDeath(995 + 4)   2 - 2   Cenyth(1060 - 4)  SM
-Caiitt(953 + 7)   2 - 2   TheMadHatter(1056 - 7)  SM
+Caiitt(957 + 7)   2 - 2   TheMadHatter(1056 - 7)  SM
 slxf(1038 + 15)   3 - 1   Neil_(973 - 15)  SM
 Samme1(1053 + 22)   3 - 1   Joost(1083 - 22)  SM    Top10 Win 
 Fedey(1071 + 18)   3 - 1   Cenyth(1056 - 18)  SM
@@ -381,8 +381,8 @@ Floras(1046 + 14)   3 - 0   Sweanz(972 - 14)  SM
 Joost(1061 + 24)   3 - 0   jvey(1119 - 24)  SM    Top10 Win 
 Fedey(1102 + 23)   3 - 0   iMincraft(1143 - 23)  SM    Top10 Win 
 R0e_(1036 + 17)   3 - 1   ItsGili(1002 - 17)  SM
-Zumbae(1128 - 5)   2 - 2   slxf(1053 + 5)  SM
-Zumbae(1123 + 8)   3 - 0   Neil_(958 - 8)  SM
+Zumbeh(1128 - 5)   2 - 2   slxf(1053 + 5)  SM
+Zumbeh(1123 + 8)   3 - 0   Neil_(958 - 8)  SM
 jvey(1095 + 15)   3 - 1   JumboTwister(1038 - 15)  SM
 Samme1(1075 + 16)   3 - 0   JumboTwister(1023 - 16)  SM
 Skefull(1110 + 20)   3 - 1   ExodePendragon(1117 - 20)  SM    Top10 Win 
@@ -394,15 +394,15 @@ Cenyth(1038 + 25)   3 - 0   iMincraft(1111 - 25)  SM    Top10 Win
 Aggressive(1136 + 13)   3 - 1   R0e_(1053 - 13)  SM
 TheMadHatter(1049 + 19)   3 - 1   MoosyDoosy(1045 - 19)  SM
 Aggressive(1149 + 8)   3 - 0   ItsGili(985 - 8)  SM
-MoosyDoosy(1026 + 15)   3 - 0   Caiitt(960 - 15)  SM
+MoosyDoosy(1026 + 15)   3 - 0   Caiitt(964 - 15)  SM
 Conga_(1079 + 10)   3 - 0   Neil_(950 - 10)  SM
 Joost(1085 + 18)   4 - 0   TheMadHatter(1068 - 18)  SM_FS
 MoosyDoosy(1041 + 23)   4 - 2   Samme1(1091 - 23)  SM_FS    Top10 Win 
 Floras(1060 + 24)   4 - 2   Fedey(1125 - 24)  SM_FS    Top10 Win 
 ExodePendragon(1097 + 15)   4 - 1   SadLxve(1043 - 15)  SM_FS
 Shaxd(1096 + 15)   4 - 0   Jakubusso(1034 - 15)  SM_FS
-Zumbae(1131 + 21)   4 - 3   Aggressive(1157 - 21)  SM_FS    Top10 Win 
-MoosyDoosy(1064 + 26)   4 - 0   Zumbae(1152 - 26)  SM_FS    Top10 Win 
+Zumbeh(1131 + 21)   4 - 3   Aggressive(1157 - 21)  SM_FS    Top10 Win 
+MoosyDoosy(1064 + 26)   4 - 0   Zumbeh(1152 - 26)  SM_FS    Top10 Win 
 Shaxd(1111 + 17)   4 - 2   Floras(1084 - 17)  SM_FS
 Conga_(1089 + 16)   4 - 2   R0e_(1040 - 16)  SM_FS
 Shaxd(1128 + 17)   4 - 0   MoosyDoosy(1090 - 17)  SM_FS
@@ -411,7 +411,7 @@ ExodePendragon(1112 + 18)   4 - 2   Alchemy(1088 - 18)  SM_FS
 ExodePendragon(1130 + 19)   4 - 3   Conga_(1124 - 19)  SM_FS    Top10 Win 
 MoosyDoosy(1073 + 22)   4 - 3   Conga_(1105 - 22)  SM_FS    Top10 Win 
 ExodePendragon(1149 + 19)   4 - 3   Shaxd(1145 - 19)  SM_FS    Top10 Win 
-TheMadHatter(1050 + 16)   3 - 1   Ycshl(1000 - 16)  SI2018_QS
+TheMadHatter(1050 + 16)   3 - 1   Larryzona(1000 - 16)  SI2018_QS
 slxf(1039 + 22)   3 - 0   TheMadHatter(1066 - 22)  SI2018_QS
 TheMadHatter(1044 + 15)   3 - 1   HDRedHDH3X(983 - 15)  SI2018_QS
 slxf(1061 + 13)   3 - 2   HDRedHDH3X(968 - 13)  SI2018_QS
@@ -419,7 +419,7 @@ Adxm_(1000 + 14)   3 - 1   Koocoo(927 - 14)  SI2018_QS
 BioBioDeath(995 + 13)   3 - 1   Koocoo(913 - 13)  SI2018_QS
 Adxm_(1014 + 19)   3 - 1   BioBioDeath(1008 - 19)  SI2018_QS
 TheMadHatter(1059 + 11)   3 - 2   Atramensia(933 - 11)  SI2018_QS
-Ycshl(984 + 26)   3 - 2   slxf(1074 - 26)  SI2018_QS
+Larryzona(984 + 26)   3 - 2   slxf(1074 - 26)  SI2018_QS
 Floras(1067 + 14)   3 - 2   Kikita(992 - 14)  SI2018_QS
 Jakubusso(1019 + 24)   3 - 2   Floras(1081 - 24)  SI2018_QS
 Jakubusso(1043 + 15)   3 - 1   Kikita(978 - 15)  SI2018_QS
@@ -452,7 +452,7 @@ slxf(1060 + 12)   3 - 0   SeriousGabry(963 - 12)  SI2018_QS
 Morgan_Ladimore(962 + 17)   3 - 1   Porkeroni(931 - 17)  SI2018_QS
 fixt(1000 + 13)   3 - 2   Porkeroni(914 - 13)  SI2018_QS
 Joost(1101 + 8)   3 - 1   Neil_(932 - 8)  SI2018_QS
-SeriousGabry(951 + 24)   3 - 1   Ycshl(1010 - 24)  SI2018_QS
+SeriousGabry(951 + 24)   3 - 1   Larryzona(1010 - 24)  SI2018_QS
 Koocoo(881 + 23)   3 - 1   Neil_(924 - 23)  SI2018_QS
 Hibby(1034 + 17)   3 - 0   SadLxve(1003 - 17)  SI2018_QS
 Joost(1109 + 6)   3 - 2   Koocoo(904 - 6)  SI2018_QS
@@ -466,7 +466,7 @@ Kikita(1002 + 22)   3 - 0   fixt(1037 - 22)  SI2018_QS
 Floras(1102 + 12)   4 - 2   HoggyHD(1000 - 12)  SI2018
 Skefull(1106 + 12)   4 - 2   xTalal(1000 - 12)  SI2018
 Skroks(1035 + 26)   4 - 2   Shaxd(1126 - 26)  SI2018    Top10 Win 
-Zumbae(1126 + 15)   4 - 3   Alchemy(1070 - 15)  SI2018
+Zumbeh(1126 + 15)   4 - 3   Alchemy(1070 - 15)  SI2018
 Joaquel(1000 + 21)   4 - 2   R0e_(1024 - 21)  SI2018
 Ezkimo(1039 + 15)   4 - 3   SeriousGabry(975 - 15)  SI2018
 Joost(1134 + 17)   4 - 2   LordPepsy(1101 - 17)  SI2018    Top10 Win 
@@ -476,7 +476,7 @@ Aggressive(1136 + 14)   4 - 2   Jakubusso(1059 - 14)  SI2018
 slxf(1072 + 14)   4 - 3   Chuggins(1000 - 14)  SI2018
 GSPoland(1036 + 22)   4 - 3   Hibby(1071 - 22)  SI2018
 jvey(1110 + 16)   4 - 2   Samme1(1068 - 16)  SI2018
-Ezkimo(1054 + 26)   4 - 2   Zumbae(1141 - 26)  SI2018    Top10 Win 
+Ezkimo(1054 + 26)   4 - 2   Zumbeh(1141 - 26)  SI2018    Top10 Win 
 GSPoland(1058 + 17)   4 - 2   Joaquel(1021 - 17)  SI2018
 Skefull(1118 + 14)   4 - 0   Jakubusso(1045 - 14)  SI2018
 Samme1(1052 + 15)   4 - 1   Chuggins(986 - 15)  SI2018
@@ -492,7 +492,7 @@ ExodePendragon(1189 + 16)   4 - 3   jvey(1142 - 16)  SI2018    Top10 Win
 Floras(1153 + 23)   4 - 0   ExodePendragon(1205 - 23)  SI2018    Top10 Win 
 Hibby(1049 + 16)   4 - 3   R0e_(1003 - 16)  SI2018
 Ezkimo(1080 + 19)   4 - 0   GSPoland(1075 - 19)  SI2018
-Samme1(1067 + 23)   4 - 3   Zumbae(1115 - 23)  SI2018    Top10 Win 
+Samme1(1067 + 23)   4 - 3   Zumbeh(1115 - 23)  SI2018    Top10 Win 
 Conga_(1108 + 17)   4 - 2   Skroks(1079 - 17)  SI2018
 Shaxd(1100 + 16)   4 - 3   MoosyDoosy(1058 - 16)  SI2018
 Skefull(1111 + 20)   4 - 1   Shaxd(1116 - 20)  SI2018    Top10 Win 
@@ -510,7 +510,7 @@ Floras(1176 + 15)   4 - 2   Ezkimo(1120 - 15)  SI2018    Top10 Win
 Samme1(1160 + 22)   4 - 3   ExodePendragon(1194 - 22)  SI2018    Top10 Win 
 Ezkimo(1105 + 25)   4 - 1   Samme1(1182 - 25)  SI2018    Top10 Win 
 Floras(1191 + 15)   4 - 3   Ezkimo(1130 - 15)  SI2018    Top10 Win 
-Zumbae(1092 + 16)   3 - 2   MoosyDoosy(1042 - 16)  SWC2019_QS
+Zumbeh(1092 + 16)   3 - 2   MoosyDoosy(1042 - 16)  SWC2019_QS
 EatMarkers(944 + 23)   3 - 1   Sxmi(992 - 23)  SWC2019_QS
 TheMadHatter(1041 + 16)   3 - 2   ivan646(1000 - 16)  SWC2019_QS
 Cadria(1000 + 21)   3 - 1   Kikita(1024 - 21)  SWC2019_QS
@@ -519,9 +519,9 @@ Cadria(1021 + 16)   3 - 2   MrPengi(981 - 16)  SWC2019_QS
 MoosyDoosy(1026 + 15)   3 - 1   e_0(969 - 15)  SWC2019_QS
 Nic(1000 + 20)   3 - 0   JTMJonny(1000 - 20)  SWC2019_QS
 GSPoland(1060 + 16)   3 - 0   BioBioDeath(1008 - 16)  SWC2019_QS
-BioBioDeath(992 + 19)   3 - 2   Ycshl(986 - 19)  SWC2019_QS
+BioBioDeath(992 + 19)   3 - 2   Larryzona(986 - 19)  SWC2019_QS
 MoosyDoosy(1041 + 15)   3 - 0   Lunrr(986 - 15)  SWC2019_QS
-Koocoo(898 + 33)   3 - 2   Zumbae(1108 - 33)  SWC2019_QS    Top10 Win 
+Koocoo(898 + 33)   3 - 2   Zumbeh(1108 - 33)  SWC2019_QS    Top10 Win 
 MoosyDoosy(1056 + 15)   3 - 1   Ironman2483(1000 - 15)  SWC2019_QS
 Yippe(1000 + 20)   3 - 1   mstq(1000 - 20)  SWC2019_QS
 Chuggins(971 + 14)   3 - 0   Porkeroni(901 - 14)  SWC2019_QS
@@ -552,15 +552,15 @@ MoosyDoosy(1071 + 15)   3 - 0   YoureFine(1017 - 15)  SWC2019_QS
 Koocoo(913 + 31)   3 - 1   MoosyDoosy(1086 - 31)  SWC2019_QS
 Koocoo(944 + 24)   3 - 1   YoureFine(1002 - 24)  SWC2019_QS
 Shaxd(1096 + 10)   3 - 0   JTMJonny(962 - 10)  SWC2019_QS
-BioBioDeath(1045 + 12)   3 - 1   Larrythecableguy(945 - 12)  SWC2019_QS
-Larrythecableguy(933 + 22)   3 - 0   edvn(968 - 22)  SWC2019_QS
+BioBioDeath(1045 + 12)   3 - 1   larrythecableguy(945 - 12)  SWC2019_QS
+larrythecableguy(933 + 22)   3 - 0   edvn(968 - 22)  SWC2019_QS
 Isterah(941 + 20)   3 - 0   edvn(946 - 20)  SWC2019_QS
-GSPoland(1099 + 10)   3 - 2   Ycshl(967 - 10)  SWC2019_QS
+GSPoland(1099 + 10)   3 - 2   Larryzona(967 - 10)  SWC2019_QS
 Lunrr(971 + 22)   3 - 1   Ironman2483(1002 - 22)  SWC2019_QS
 Koocoo(968 + 20)   3 - 0   Ironman2483(980 - 20)  SWC2019_QS
 Skefull(1133 + 8)   3 - 0   EatMarkers(967 - 8)  SWC2019_QS
 Sxmi(950 + 21)   3 - 0   R0e_(974 - 21)  SWC2019_QS
-GSPoland(1109 + 9)   3 - 2   Larrythecableguy(955 - 9)  SWC2019_QS
+GSPoland(1109 + 9)   3 - 2   larrythecableguy(955 - 9)  SWC2019_QS
 e_0(938 + 24)   3 - 0   Lunrr(993 - 24)  SWC2019_QS
 Fedey(1092 + 10)   3 - 0   EatMarkers(959 - 10)  SWC2019_QS
 ShadowFlames(956 + 28)   3 - 2   TheMadHatter(1071 - 28)  SWC2019_QS
@@ -593,9 +593,9 @@ Joaquel(1035 + 14)   3 - 0   ShadowFlames(968 - 14)  SWC2019_QS
 Fedey(1102 + 11)   3 - 1   _Viirux(985 - 11)  SWC2019_QS
 Yippe(1015 + 24)   3 - 1   FatherDoug(1081 - 24)  SWC2019_QS
 Chuggins(1014 + 12)   3 - 0   JimmyBeeEclipse(913 - 12)  SWC2019_QS
-Chuggins(1026 + 13)   3 - 0   josher17(932 - 13)  SWC2019_QS
-Jakubusso(1017 + 12)   3 - 2   josher17(919 - 12)  SWC2019_QS
-Hirachys(1016 + 12)   3 - 2   josher17(907 - 12)  SWC2019_QS
+Chuggins(1026 + 13)   3 - 0   Josher(932 - 13)  SWC2019_QS
+Jakubusso(1017 + 12)   3 - 2   Josher(919 - 12)  SWC2019_QS
+Hirachys(1016 + 12)   3 - 2   Josher(907 - 12)  SWC2019_QS
 JimmyBeeEclipse(901 + 29)   3 - 1   Jakubusso(1029 - 29)  SWC2019_QS
 Kikita(1040 + 15)   3 - 2   AlwaysFaithful(987 - 15)  SWC2019_QS
 _Viirux(974 + 16)   3 - 0   EatMarkers(930 - 16)  SWC2019_QS
@@ -614,9 +614,9 @@ Neatsu(1085 + 16)   3 - 2   Nic(1040 - 16)  SWC2019_QS
 FatherDoug(1070 + 15)   3 - 0   SadLxve(1006 - 15)  SWC2019_QS
 mstq(965 + 21)   3 - 2   SadLxve(991 - 21)  SWC2019_QS
 Atramensia(933 + 27)   3 - 2   Yippe(1039 - 27)  SWC2019_QS
-Pebbalz(952 + 20)   3 - 2   Ycshl(957 - 20)  SWC2019_QS
-Ycshl(937 + 20)   3 - 1   Larrythecableguy(946 - 20)  SWC2019_QS
-Ycshl(957 + 17)   3 - 0   edvn(926 - 17)  SWC2019_QS
+Pebbalz(952 + 20)   3 - 2   Larryzona(957 - 20)  SWC2019_QS
+Larryzona(937 + 20)   3 - 1   larrythecableguy(946 - 20)  SWC2019_QS
+Larryzona(957 + 17)   3 - 0   edvn(926 - 17)  SWC2019_QS
 Lunrr(990 + 17)   3 - 2   YoureFine(957 - 17)  SWC2019_QS
 Pebbalz(972 + 15)   3 - 2   edvn(909 - 15)  SWC2019_QS
 Joaquel(1049 + 12)   3 - 0   ohwander(945 - 12)  SWC2019_QS
@@ -629,7 +629,7 @@ FatherDoug(1085 + 9)   3 - 1   Atramensia(941 - 9)  SWC2019_QS
 FatherDoug(1094 + 12)   3 - 1   mstq(986 - 12)  SWC2019_QS
 Sweanz(916 + 25)   3 - 2   AlwaysFaithful(991 - 25)  SWC2019_QS
 GSPoland(1118 + 10)   3 - 1   Pebbalz(987 - 10)  SWC2019_QS
-Isterah(961 + 20)   3 - 2   Ycshl(974 - 20)  SWC2019_QS
+Isterah(961 + 20)   3 - 2   Larryzona(974 - 20)  SWC2019_QS
 TheMadHatter(1020 + 19)   3 - 1   IntoThat(1018 - 19)  SWC2019_QS
 Nespresso(984 + 18)   3 - 2   AlwaysFaithful(966 - 18)  SWC2019_QS
 Kaatrine(959 + 20)   3 - 2   e_0(962 - 20)  SWC2019_QS
@@ -700,17 +700,17 @@ Chuggins(1113 + 26)   4 - 3   ExodePendragon(1196 - 26)  SWC2019_FS    Top10 Win
 MoosyDoosy(1132 + 22)   4 - 3   ExodePendragon(1170 - 22)  SWC2019_FS    Top10 Win 
 Ezkimo(1204 + 15)   4 - 3   Chuggins(1139 - 15)  SWC2019_FS    Top10 Win 
 Ezkimo(1219 - 33)   2 - 3   ivan646(998 + 33)  SST2019    Top10 Win 
-Ezkimo(1186 - 34)   0 - 1   Caiitt(945 + 34)  SST2019    Top10 Win 
+Ezkimo(1186 - 34)   0 - 1   Caiitt(949 + 34)  SST2019    Top10 Win 
 Fedey(1102 + 10)   4 - 1   Koocoo(970 - 10)  SST2019
 Porkeroni(857 + 15)   3 - 3   Fedey(1112 - 15)  SST2019
 EvilGuyy(1000 + 18)   4 - 2   Jakubusso(976 - 18)  SST2019
 Jakubusso(958 + 23)   4 - 0   BoiledNoodles(1000 - 23)  SST2019
-Larrythecableguy(926 + 23)   4 - 1   BoiledNoodles(977 - 23)  SST2019
-Jakubusso(981 + 17)   4 - 1   Larrythecableguy(949 - 17)  SST2019
+larrythecableguy(926 + 23)   4 - 1   BoiledNoodles(977 - 23)  SST2019
+Jakubusso(981 + 17)   4 - 1   larrythecableguy(949 - 17)  SST2019
 Jakubusso(998 - 2)   3 - 3   Juracan(959 + 2)  SST2019
-Larrythecableguy(932 + 8)   3 - 3   _Viirux(1049 - 8)  SST2019
-Juracan(961 + 18)   4 - 1   Larrythecableguy(940 - 18)  SST2019
-Shaxd(1092 + 8)   4 - 2   Larrythecableguy(922 - 8)  SST2019
+larrythecableguy(932 + 8)   3 - 3   _Viirux(1049 - 8)  SST2019
+Juracan(961 + 18)   4 - 1   larrythecableguy(940 - 18)  SST2019
+Shaxd(1092 + 8)   4 - 2   larrythecableguy(922 - 8)  SST2019
 Shaxd(1100 + 12)   4 - 0   Jakubusso(996 - 12)  SST2019
 Samme1(1166 + 7)   4 - 0   Chubeh(976 - 7)  SST2019
 _Viirux(1041 + 10)   4 - 1   Neil_(901 - 10)  SST2019
@@ -737,7 +737,7 @@ Neil_(917 + 21)   4 - 1   Tadatomo(943 - 21)  SST2019
 EvilGuyy(1027 + 9)   3 - 3   Chuggins(1160 - 9)  SST2019
 fixt(1015 + 18)   4 - 1   SadLxve(989 - 18)  SST2019
 ivan646(1033 + 30)   4 - 2   Joost(1184 - 30)  SST2019    Top10 Win 
-Cenyth(1003 + 13)   4 - 0   Larrythecableguy(914 - 13)  SST2019
+Cenyth(1003 + 13)   4 - 0   larrythecableguy(914 - 13)  SST2019
 ivan646(1063 + 26)   4 - 2   ExodePendragon(1148 - 26)  SST2019    Top10 Win 
 Chuggins(1151 + 8)   4 - 0   Juracan(979 - 8)  SST2019
 Juracan(971 + 24)   4 - 0   _Viirux(1026 - 24)  SST2019
@@ -753,7 +753,7 @@ Chubeh(991 + 16)   4 - 1   Sweanz(949 - 16)  SST2019
 MoosyDoosy(1161 + 9)   4 - 2   Chubeh(1007 - 9)  SST2019
 Floras(1196 + 5)   4 - 2   HDRedHDH3X(952 - 5)  SST2019
 ivan646(1089 + 10)   4 - 2   Pebbalz(961 - 10)  SST2019
-Caiitt(979 + 8)   3 - 3   ivan646(1099 - 8)  SST2019
+Caiitt(983 + 8)   3 - 3   ivan646(1099 - 8)  SST2019
 ivan646(1091 + 13)   4 - 1   Saltren(1000 - 13)  SST2019
 Shaxd(1124 + 7)   4 - 1   Neil_(938 - 7)  SST2019
 ExodePendragon(1122 + 5)   4 - 0   EatMarkers(886 - 5)  SST2019
@@ -761,9 +761,9 @@ ivan646(1104 + 16)   4 - 2   BioBioDeath(1060 - 16)  SST2019
 ivan646(1120 + 11)   4 - 0   LordArmadillo(1000 - 11)  SST2019
 HDRedHDH3X(947 + 11)   3 - 3   ExodePendragon(1127 - 11)  SST2019
 ExodePendragon(1116 + 10)   4 - 0   LordArmadillo(989 - 10)  SST2019
-SadLxve(965 + 22)   4 - 2   salchi(997 - 22)  SST2019
-EvilGuyy(1036 + 10)   4 - 1   Larrythecableguy(901 - 10)  SST2019
-TheMadHatter(995 + 25)   4 - 2   Zumbae(1075 - 25)  SST2019
+SadLxve(965 + 25)   4 - 2   salchi(1041 - 25)  SST2019
+EvilGuyy(1036 + 10)   4 - 1   larrythecableguy(901 - 10)  SST2019
+TheMadHatter(995 + 25)   4 - 2   Zumbeh(1075 - 25)  SST2019
 de_(1100 + 14)   4 - 1   TheMadHatter(1020 - 14)  SST2019
 HDRedHDH3X(958 + 19)   4 - 2   Pebbalz(951 - 19)  SST2019
 Conga_(1119 + 11)   4 - 0   TheMadHatter(1006 - 11)  SST2019
@@ -772,17 +772,17 @@ Floras(1215 + 5)   4 - 0   Saltren(987 - 5)  SST2019
 Samme1(1204 + 6)   4 - 1   ImDualley(983 - 6)  SST2019
 Saltren(982 + 29)   4 - 2   ExodePendragon(1112 - 29)  SST2019
 HDRedHDH3X(977 + 22)   4 - 1   Saltren(1011 - 22)  SST2019
-Zumbae(1050 + 15)   4 - 1   SadLxve(987 - 15)  SST2019
-Zumbae(1065 + 24)   4 - 2   Conga_(1130 - 24)  SST2019    Top10 Win 
+Zumbeh(1050 + 15)   4 - 1   SadLxve(990 - 15)  SST2019
+Zumbeh(1065 + 24)   4 - 2   Conga_(1130 - 24)  SST2019    Top10 Win 
 de_(1114 + 19)   4 - 2   Conga_(1106 - 19)  SST2019
-SadLxve(972 + 1)   3 - 3   TheMadHatter(995 - 1)  SST2019
-Saltren(989 + 19)   4 - 2   Caiitt(987 - 19)  SST2019
+SadLxve(975 + 1)   3 - 3   TheMadHatter(995 - 1)  SST2019
+Saltren(989 + 20)   4 - 2   Caiitt(991 - 20)  SST2019
 fixt(1033 + 17)   4 - 2   TheMadHatter(994 - 17)  SST2019
 Skefull(1171 - 8)   3 - 3   fixt(1050 + 8)  SST2019
-Tadatomo(922 + 17)   4 - 2   Larrythecableguy(891 - 17)  SST2019
+Tadatomo(922 + 17)   4 - 2   larrythecableguy(891 - 17)  SST2019
 Floras(1220 + 2)   4 - 1   EatMarkers(881 - 2)  SST2019
 DrJDiamond(1011 + 17)   4 - 0   Koocoo(976 - 17)  SST2019
-Samme1(1210 + 3)   4 - 1   josher17(895 - 3)  SST2019
+Samme1(1210 + 3)   4 - 1   Josher(895 - 3)  SST2019
 ivan646(1131 - 9)   3 - 3   HDRedHDH3X(999 + 9)  SST2019
 MoosyDoosy(1170 + 3)   3 - 3   Samme1(1213 - 3)  SST2019
 fixt(1058 + 3)   3 - 3   Skroks(1102 - 3)  SST2019
@@ -796,26 +796,26 @@ jvey(1093 + 5)   3 - 3   MoosyDoosy(1173 - 5)  SST2019
 Samme1(1213 + 11)   4 - 1   jvey(1098 - 11)  SST2019
 MoosyDoosy(1168 + 4)   4 - 0   Porkeroni(883 - 4)  SST2019
 fixt(1061 + 3)   3 - 3   Conga_(1112 - 3)  SST2019
-Zumbae(1089 + 18)   4 - 1   fixt(1064 - 18)  SST2019
+Zumbeh(1089 + 18)   4 - 1   fixt(1064 - 18)  SST2019
 HDRedHDH3X(1008 + 19)   4 - 2   SQUICHMER(1000 - 19)  SST2019
 ivan646(1122 + 10)   4 - 0   SQUICHMER(981 - 10)  SST2019
-Chuggins(1165 + 3)   4 - 2   Larrythecableguy(874 - 3)  SST2019
-Saltren(1008 - 9)   3 - 3   EatMarkers(879 + 9)  SST2019
-josher17(892 + 7)   3 - 3   Chubeh(998 - 7)  SST2019
-MoosyDoosy(1172 + 4)   4 - 0   josher17(899 - 4)  SST2019
+Chuggins(1165 + 3)   4 - 2   larrythecableguy(874 - 3)  SST2019
+Saltren(1009 - 9)   3 - 3   EatMarkers(879 + 9)  SST2019
+Josher(892 + 7)   3 - 3   Chubeh(998 - 7)  SST2019
+MoosyDoosy(1172 + 4)   4 - 0   Josher(899 - 4)  SST2019
 Pebbalz(932 + 22)   4 - 0   SQUICHMER(971 - 22)  SST2019
-Saltren(999 - 3)   3 - 3   Pebbalz(954 + 3)  SST2019
+Saltren(1000 - 3)   3 - 3   Pebbalz(954 + 3)  SST2019
 EatMarkers(888 + 24)   4 - 1   SQUICHMER(949 - 24)  SST2019
 ExodePendragon(1083 + 9)   4 - 0   SQUICHMER(925 - 9)  SST2019
 de_(1133 - 6)   3 - 3   fixt(1046 + 6)  SST2019
-DrJDiamond(1028 + 10)   4 - 2   josher17(895 - 10)  SST2019
-Koocoo(959 + 14)   4 - 2   josher17(885 - 14)  SST2019
+DrJDiamond(1028 + 10)   4 - 2   Josher(895 - 10)  SST2019
+Koocoo(959 + 14)   4 - 2   Josher(885 - 14)  SST2019
 MoosyDoosy(1176 + 6)   4 - 2   Ryains(971 - 6)  SST2019
 Koocoo(973 - 3)   3 - 3   Sweanz(933 + 3)  SST2019
 jvey(1087 + 9)   4 - 0   Sweanz(936 - 9)  SST2019
 jvey(1096 + 10)   4 - 1   Ryains(965 - 10)  SST2019
-Floras(1222 + 4)   4 - 1   Caiitt(968 - 4)  SST2019
-Joost(1154 + 7)   4 - 0   Caiitt(964 - 7)  SST2019
+Floras(1222 + 5)   4 - 1   Caiitt(971 - 5)  SST2019
+Joost(1154 + 7)   4 - 0   Caiitt(966 - 7)  SST2019
 Joost(1161 + 5)   4 - 1   EatMarkers(912 - 5)  SST2019
 HDRedHDH3X(1027 + 9)   3 - 3   Joost(1166 - 9)  SST2019
 jvey(1106 + 11)   4 - 0   Chubeh(991 - 11)  SST2019
@@ -826,9 +826,9 @@ Juracan(1030 + 12)   4 - 0   Neil_(931 - 12)  SST2019
 GSPoland(1125 + 9)   4 - 0   TheMadHatter(977 - 9)  SST2019
 HDRedHDH3X(1036 + 15)   4 - 0   LordArmadillo(979 - 15)  SST2019
 LordArmadillo(964 + 16)   4 - 1   SQUICHMER(916 - 16)  SST2019
-Floras(1226 + 3)   4 - 2   SQUICHMER(900 - 3)  SST2019
-Floras(1229 + 5)   4 - 2   LordArmadillo(980 - 5)  SST2019
-GSPoland(1134 - 2)   3 - 3   Zumbae(1107 + 2)  SST2019
+Floras(1227 + 3)   4 - 2   SQUICHMER(900 - 3)  SST2019
+Floras(1230 + 5)   4 - 2   LordArmadillo(980 - 5)  SST2019
+GSPoland(1134 - 2)   3 - 3   Zumbeh(1107 + 2)  SST2019
 Cenyth(1028 + 14)   4 - 1   ShadowFlames(959 - 14)  SST2019
 ShadowFlames(945 + 33)   4 - 2   Chuggins(1168 - 33)  SST2019    Top10 Win 
 Skroks(1099 + 2)   3 - 3   GSPoland(1132 - 2)  SST2019
@@ -846,13 +846,13 @@ LordArmadillo(1007 + 22)   4 - 2   BioBioDeath(1036 - 22)  SST2019
 LordArmadillo(1029 + 10)   4 - 0   EatMarkers(896 - 10)  SST2019
 jvey(1117 - 10)   3 - 3   Koocoo(964 + 10)  SST2019
 Porkeroni(879 + 6)   3 - 3   Koocoo(974 - 6)  SST2019
-Saltren(996 + 12)   1 - 0   SQUICHMER(897 - 12)  SST2019
+Saltren(997 + 12)   1 - 0   SQUICHMER(897 - 12)  SST2019
 Skefull(1138 + 12)   2 - 1   Alchemy(1028 - 12)  SST2019
 BioBioDeath(1014 + 15)   4 - 0   Pebbalz(957 - 15)  SST2019
 ExodePendragon(1092 + 15)   4 - 2   BioBioDeath(1029 - 15)  SST2019
 GSPoland(1130 + 11)   4 - 1   Alchemy(1016 - 11)  SST2019
 jvey(1107 - 5)   3 - 3   DrJDiamond(1038 + 5)  SST2019
-ShadowFlames(969 + 12)   4 - 0   Larrythecableguy(871 - 12)  SST2019
+ShadowFlames(969 + 12)   4 - 0   larrythecableguy(871 - 12)  SST2019
 ShadowFlames(981 + 13)   4 - 1   BoiledNoodles(896 - 13)  SST2019
 ShadowFlames(994 + 22)   4 - 2   _Viirux(1033 - 22)  SST2019
 ShadowFlames(1016 + 22)   4 - 2   EvilGuyy(1046 - 22)  SST2019
@@ -861,28 +861,28 @@ Skefull(1150 + 7)   4 - 2   TheMadHatter(959 - 7)  SST2019
 GSPoland(1141 - 6)   3 - 3   fixt(1052 + 6)  SST2019
 GSPoland(1135 + 1)   3 - 3   Skefull(1157 - 1)  SST2019
 Chubeh(980 + 13)   4 - 1   Porkeroni(885 - 13)  SST2019
-Skefull(1156 + 7)   4 - 1   SadLxve(973 - 7)  SST2019
-Skroks(1125 + 22)   4 - 0   Skefull(1163 - 22)  SST2019    Top10 Win 
-Floras(1234 + 3)   4 - 2   Pebbalz(942 - 3)  SST2019
+Skefull(1156 + 8)   4 - 1   SadLxve(976 - 8)  SST2019
+Skroks(1125 + 22)   4 - 0   Skefull(1164 - 22)  SST2019    Top10 Win 
+Floras(1235 + 3)   4 - 2   Pebbalz(942 - 3)  SST2019
 Pebbalz(939 + 7)   3 - 3   LordArmadillo(1039 - 7)  SST2019
-jvey(1102 + 5)   4 - 2   josher17(871 - 5)  SST2019
-Floras(1237 + 6)   4 - 0   BioBioDeath(1014 - 6)  SST2019
+jvey(1102 + 5)   4 - 2   Josher(871 - 5)  SST2019
+Floras(1238 + 6)   4 - 0   BioBioDeath(1014 - 6)  SST2019
 Joost(1125 - 14)   3 - 3   SQUICHMER(885 + 14)  SST2019
 Joost(1111 + 19)   4 - 2   ExodePendragon(1107 - 19)  SST2019
 Juracan(1042 + 18)   4 - 1   Cenyth(1020 - 18)  SST2019
 fixt(1058 + 15)   4 - 2   Alchemy(1005 - 15)  SST2019
 de_(1127 + 21)   4 - 0   Skroks(1147 - 21)  SST2019    Top10 Win 
 Porkeroni(872 + 4)   3 - 3   Sweanz(927 - 4)  SST2019
-GSPoland(1136 - 11)   3 - 3   SadLxve(966 + 11)  SST2019
+GSPoland(1136 - 11)   3 - 3   SadLxve(968 + 11)  SST2019
 Juracan(1060 + 18)   4 - 2   ShadowFlames(1038 - 18)  SST2019
 de_(1148 + 18)   4 - 0   GSPoland(1125 - 18)  SST2019
-Larrythecableguy(859 + 24)   4 - 0   Neil_(919 - 24)  SST2019
+larrythecableguy(859 + 24)   4 - 0   Neil_(919 - 24)  SST2019
 ShadowFlames(1020 + 11)   4 - 0   Neil_(895 - 11)  SST2019
-SadLxve(977 + 10)   3 - 3   Skroks(1126 - 10)  SST2019
+SadLxve(979 + 10)   3 - 3   Skroks(1126 - 10)  SST2019
 Shaxd(1133 + 12)   4 - 0   EvilGuyy(1034 - 12)  SST2019
-de_(1166 - 4)   3 - 3   Zumbae(1109 + 4)  SST2019
+de_(1166 - 4)   3 - 3   Zumbeh(1109 + 4)  SST2019
 Pebbalz(946 + 12)   3 - 3   Joost(1130 - 12)  SST2019
-Skroks(1116 + 19)   4 - 2   Zumbae(1113 - 19)  SST2019
+Skroks(1116 + 19)   4 - 2   Zumbeh(1113 - 19)  SST2019
 Juracan(1078 - 4)   3 - 3   EvilGuyy(1022 + 4)  SST2019
 EatMarkers(886 + 25)   4 - 2   Pebbalz(958 - 25)  SST2019
 de_(1162 + 16)   4 - 2   Joost(1118 - 16)  SST2019_FS
@@ -894,25 +894,25 @@ ivan646(1132 + 20)   4 - 2   Skroks(1135 - 20)  SST2019_FS    Top10 Win
 Samme1(1224 + 7)   4 - 2   EvilGuyy(1026 - 7)  SST2019_FS
 Shaxd(1154 + 19)   4 - 3   ivan646(1152 - 19)  SST2019_FS    Top10 Win 
 de_(1178 + 14)   4 - 0   Juracan(1102 - 14)  SST2019_FS
-Chuggins(1144 + 27)   4 - 2   Floras(1243 - 27)  SST2019_FS    Top10 Win 
+Chuggins(1144 + 27)   4 - 2   Floras(1244 - 27)  SST2019_FS    Top10 Win 
 Samme1(1231 + 10)   4 - 1   HDRedHDH3X(1090 - 10)  SST2019_FS
 Samme1(1241 + 16)   4 - 3   de_(1192 - 16)  SST2019_FS    Top10 Win 
 Chuggins(1171 + 20)   4 - 2   Shaxd(1173 - 20)  SST2019_FS    Top10 Win 
 Chuggins(1191 + 24)   4 - 0   Samme1(1257 - 24)  SST2019_FS    Top10 Win 
 EatMarkers(911 + 33)   3 - 2   ivan646(1133 - 33)  SWC2020    Top10 Win 
-Floras(1216 + 7)   3 - 1   Jakubusso(1029 - 7)  SWC2020
-Skroks(1115 + 27)   3 - 1   Floras(1223 - 27)  SWC2020    Top10 Win 
+Floras(1217 + 7)   3 - 1   Jakubusso(1029 - 7)  SWC2020
+Skroks(1115 + 27)   3 - 1   Floras(1224 - 27)  SWC2020    Top10 Win 
 ExodePendragon(1088 + 9)   3 - 0   EatMarkers(944 - 9)  SWC2020
 ivan646(1100 + 19)   3 - 2   ExodePendragon(1097 - 19)  SWC2020
 Kikita(1015 + 20)   3 - 0   Jakubusso(1022 - 20)  SWC2020
 Chuggins(1215 + 5)   3 - 0   Kaatrine(979 - 5)  SWC2020
 Zumbeh(1094 + 13)   3 - 0   Kopites(1000 - 13)  SWC2020
 Joost(1102 + 10)   3 - 1   Kaatrine(974 - 10)  SWC2020
-Joost(1112 + 27)   3 - 1   Chuggins(1220 - 27)  SWC2020    Top10 Win 
+Joost(1112 - 12)   1 - 3   Chuggins(1220 + 12)  SWC2020
 LordPepsy(1083 + 13)   3 - 0   CianV(1000 - 13)  SWC2020
 Samme1(1233 + 4)   3 - 0   Larryzona(954 - 4)  SWC2020
 MoosyDoosy(1160 + 9)   3 - 0   Zoli(1000 - 9)  SWC2020
-Floras(1196 + 9)   3 - 1   Kikita(1035 - 9)  SWC2020
+Floras(1197 + 8)   3 - 1   Kikita(1035 - 8)  SWC2020
 Modges(1000 + 26)   3 - 1   Juracan(1088 - 26)  SWC2020
 Juracan(1062 + 7)   3 - 2   Josher(866 - 7)  SWC2020
 de_(1176 + 7)   3 - 0   CianV(987 - 7)  SWC2020
@@ -925,7 +925,7 @@ de_(1183 + 13)   3 - 2   LordPepsy(1096 - 13)  SWC2020
 Modges(1015 + 9)   3 - 0   Josher(859 - 9)  SWC2020
 Shaxd(1153 + 16)   3 - 1   Zumbeh(1107 - 16)  SWC2020
 Aggressive(1124 + 9)   3 - 0   Zoli(972 - 9)  SWC2020
-Yukno(1011 + 28)   3 - 0   Aggressive(1133 - 28)  SWC2020
+Yukno(1011 + 28)   3 - 0   Aggressive(1133 - 28)  SWC2020    Top10 Win 
 Skroks(1142 + 10)   3 - 0   Jakubusso(1002 - 10)  SWC2020
 Samme1(1237 + 11)   3 - 2   Conga_(1118 - 11)  SWC2020
 DrJDiamond(1043 + 12)   3 - 0   EatMarkers(935 - 12)  SWC2020
@@ -938,6 +938,6 @@ HDRedHDH3X(1067 + 14)   3 - 0   Kopites(987 - 14)  SWC2020
 Zumbeh(1091 + 19)   3 - 2   HDRedHDH3X(1081 - 19)  SWC2020
 Shaxd(1182 + 6)   3 - 1   Kopites(973 - 6)  SWC2020
 ShadowFlames(1044 + 33)   3 - 2   Samme1(1248 - 33)  SWC2020    Top10 Win 
-DolanBoi(1000 + 14)   3 - 2   EatMarkers(923 - 14)  SWC2020
-ivan646(1119 + 12)   3 - 0   DolanBoi(1014 - 12)  SWC2020
-ExodePendragon(1078 + 14)   3 - 0   DolanBoi(1002 - 14)  SWC2020
+Bardocksa(1000 + 14)   3 - 2   EatMarkers(923 - 14)  SWC2020
+ivan646(1119 + 12)   3 - 0   Bardocksa(1014 - 12)  SWC2020
+ExodePendragon(1078 + 14)   3 - 0   Bardocksa(1002 - 14)  SWC2020
