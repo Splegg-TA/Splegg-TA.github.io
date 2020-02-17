@@ -941,3 +941,18 @@ ShadowFlames(1044 + 33)   3 - 2   Samme1(1248 - 33)  SWC2020    Top10 Win
 Bardocksa(1000 + 14)   3 - 2   EatMarkers(923 - 14)  SWC2020
 ivan646(1119 + 12)   3 - 0   Bardocksa(1014 - 12)  SWC2020
 ExodePendragon(1078 + 14)   3 - 0   Bardocksa(1002 - 14)  SWC2020
+Ezkimo(1176 + 3)   3 - 0   Josher(850 - 3)  SWC2020
+ShadowFlames(1077 + 24)   4 - 1   ivan646(1131 - 24)  SWC2020_FS    Top10 Win 
+Zumbeh(1110 + 25)   4 - 1   MoosyDoosy(1177 - 25)  SWC2020_FS    Top10 Win 
+Joost(1100 + 14)   4 - 0   Kikita(1027 - 14)  SWC2020_FS
+ExodePendragon(1092 + 28)   4 - 3   Samme1(1215 - 28)  SWC2020_FS    Top10 Win 
+Ezkimo(1179 + 13)   4 - 1   LordPepsy(1089 - 13)  SWC2020_FS
+Floras(1205 + 22)   4 - 2   Chuggins(1232 - 22)  SWC2020_FS    Top10 Win 
+Yukno(1039 + 30)   4 - 2   Shaxd(1188 - 30)  SWC2020_FS    Top10 Win 
+de_(1199 + 8)   4 - 2   Modges(1024 - 8)  SWC2020_FS
+Ezkimo(1192 + 11)   4 - 1   Yukno(1069 - 11)  SWC2020_FS
+ExodePendragon(1120 + 19)   4 - 3   Joost(1114 - 19)  SWC2020_FS
+Floras(1227 + 11)   4 - 1   ShadowFlames(1101 - 11)  SWC2020_FS
+de_(1207 + 14)   4 - 1   ExodePendragon(1139 - 14)  SWC2020_FS    Top10 Win 
+Ezkimo(1203 + 22)   4 - 0   Floras(1238 - 22)  SWC2020_FS    Top10 Win 
+ExodePendragon(1125 + 26)   4 - 2   Floras(1216 - 26)  SWC2020_FS    Top10 Win 
