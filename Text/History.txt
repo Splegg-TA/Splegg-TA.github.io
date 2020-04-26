@@ -988,3 +988,35 @@ Jvvst(1120 + 16)   3 - 0   Yukno(1080 - 16)  ODC_II
 Floras(1184 + 9)   3 - 0   Gruen44(1035 - 9)  ODC_II
 Yukno(1064 + 17)   3 - 0   Gruen44(1026 - 17)  ODC_II
 Jvvst(1136 + 24)   4 - 1   Floras(1193 - 24)  ODC_II    Top10 Win 
+Koocoo(944 + 24)   3 - 1   Jakubusso(1008 - 24)  ODC_III
+Jvvst(1160 + 4)   3 - 1   Neil_(884 - 4)  ODC_III
+Spleefer(989 + 20)   3 - 2   Zolbmth(999 - 20)  ODC_III
+Floras(1169 + 8)   3 - 1   Mazemaker(1000 - 8)  ODC_III
+Lobstuh(1000 + 20)   3 - 2   CrazyBone5000(1000 - 20)  ODC_III
+ivan646(1107 + 7)   3 - 0   EatMarkers(924 - 7)  ODC_III
+Arryhs(975 + 32)   3 - 2   ExodePendragon(1177 - 32)  ODC_III    Top10 Win 
+HDRedHDH3X(1062 + 15)   3 - 0   kersplusho(1000 - 15)  ODC_III
+aQuickSloth(983 + 19)   3 - 1   100YearsLater(975 - 19)  ODC_III
+Yukno(1081 + 13)   3 - 1   CianV(994 - 13)  ODC_III
+Shaxd(1209 + 5)   3 - 0   _ys(980 - 5)  ODC_III
+Sxmi(936 + 24)   3 - 0   Lutraga(1000 - 24)  ODC_III
+Saltren(980 + 17)   3 - 2   TheMadHatter(952 - 17)  ODC_III
+jvey(1045 + 16)   3 - 2   Karapuz(1000 - 16)  ODC_III
+Samme1(1154 + 19)   3 - 1   Skefull(1142 - 19)  ODC_III
+Kikita(1013 + 23)   3 - 2   Modgeh(1064 - 23)  ODC_III
+Yukno(1094 + 10)   3 - 0   Sxmi(960 - 10)  ODC_III
+Jvvst(1164 + 12)   3 - 2   jvey(1061 - 12)  ODC_III
+HDRedHDH3X(1077 + 14)   3 - 1   Spleefer(1009 - 14)  ODC_III
+Arryhs(1007 + 20)   3 - 0   Lobstuh(1020 - 20)  ODC_III
+Shaxd(1214 + 6)   3 - 1   aQuickSloth(1002 - 6)  ODC_III
+Samme1(1173 + 20)   3 - 2   Floras(1177 - 20)  ODC_III    Top10 Win 
+Kikita(1036 + 14)   3 - 1   Koocoo(968 - 14)  ODC_III
+ivan646(1114 + 11)   3 - 0   Saltren(997 - 11)  ODC_III
+Samme1(1193 + 14)   3 - 0   ivan646(1125 - 14)  ODC_III
+Arryhs(1027 + 24)   3 - 0   HDRedHDH3X(1091 - 24)  ODC_III
+Jvvst(1176 + 11)   3 - 2   Kikita(1050 - 11)  ODC_III
+Shaxd(1220 + 11)   3 - 1   Yukno(1104 - 11)  ODC_III
+Jvvst(1187 + 10)   3 - 0   Arryhs(1051 - 10)  ODC_III
+Samme1(1207 + 21)   3 - 1   Shaxd(1231 - 21)  ODC_III    Top10 Win 
+Shaxd(1210 + 8)   3 - 0   Arryhs(1041 - 8)  ODC_III
+Samme1(1228 + 17)   4 - 2   Jvvst(1197 - 17)  ODC_III    Top10 Win 
