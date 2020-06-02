@@ -1,2 +1,2 @@
-# <a>Splegg-TA.github.io</a>
+# <a href="splegg-ta.github.io">Splegg-TA.github.io</a>
 The official ELO ratings from Minecraft Splegg tournaments
