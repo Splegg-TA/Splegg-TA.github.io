@@ -977,7 +977,7 @@ messengers(944 + 24)   3 - 1   Jakubusso(1007 - 24)  ODC_III
 jvvst(1143 + 4)   3 - 1   Neil_(884 - 4)  ODC_III
 Spleefer(990 + 22)   3 - 2   Zolbmth(1018 - 22)  ODC_III
 Floras(1159 + 9)   3 - 1   Mazemaker(1000 - 9)  ODC_III
-100YearsPrior(1000 + 20)   3 - 2   Alfie6_(1000 - 20)  ODC_III
+EhBacon(1000 + 20)   3 - 2   Alfie6_(1000 - 20)  ODC_III
 ivan646(1107 + 7)   3 - 0   EatMarkers(924 - 7)  ODC_III
 Arrhys(975 + 33)   3 - 2   ExodePendragon(1179 - 33)  ODC_III    Top10 Win 
 HDredHDH3X(1062 + 15)   3 - 0   kersplusho(1000 - 15)  ODC_III
@@ -990,7 +990,7 @@ Samme1(1154 + 19)   3 - 1   Skefull(1142 - 19)  ODC_III
 Kikita(1013 + 22)   3 - 2   Modges(1046 - 22)  ODC_III
 jvvst(1147 + 13)   3 - 2   jvey(1062 - 13)  ODC_III
 HDredHDH3X(1077 + 15)   3 - 1   Spleefer(1012 - 15)  ODC_III
-Arrhys(1008 + 20)   3 - 0   100YearsPrior(1020 - 20)  ODC_III
+Arrhys(1008 + 20)   3 - 0   EhBacon(1020 - 20)  ODC_III
 Shaxd(1235 + 5)   3 - 1   aQuickSloth(1002 - 5)  ODC_III
 Samme1(1173 + 19)   3 - 2   Floras(1168 - 19)  ODC_III    Top10 Win 
 Kikita(1035 + 14)   3 - 1   messengers(968 - 14)  ODC_III
@@ -1002,7 +1002,6 @@ jvvst(1171 + 11)   3 - 0   Arrhys(1052 - 11)  ODC_III
 Samme1(1207 + 22)   3 - 1   Shaxd(1240 - 22)  ODC_III    Top10 Win 
 Shaxd(1218 + 8)   3 - 0   Arrhys(1041 - 8)  ODC_III
 Samme1(1229 + 16)   4 - 2   jvvst(1182 - 16)  ODC_III    Top10 Win 
-caiitt(959 + 23)   3 - 0   Metapodd(1000 - 23)  GOST2020
 100YearsBefore(988 + 17)   3 - 2   messengers(954 - 17)  GOST2020
 Hwamzx(1000 + 18)   3 - 2   Xternal(980 - 18)  GOST2020
 okaxel(1000 + 18)   3 - 2   _ys(975 - 18)  GOST2020
@@ -1015,13 +1014,13 @@ Saltren(1005 + 27)   3 - 1   ivan646(1111 - 27)  GOST2020
 Floras(1149 + 8)   3 - 0   kersplusho(985 - 8)  GOST2020
 oompaloompabody(1000 + 20)   3 - 1   amime(1000 - 20)  GOST2020
 Skroks(1153 + 9)   3 - 1   Andrxa(1000 - 9)  GOST2020
-100YearsPrior(1000 + 14)   3 - 0   BringBackJBE(930 - 14)  GOST2020
+EhBacon(1000 + 14)   3 - 0   BringBackJBE(930 - 14)  GOST2020
 Ephisa(1000 + 17)   3 - 2   Kaatrine(964 - 17)  GOST2020
 Arrhys(1033 + 17)   3 - 2   Valpe(1000 - 17)  GOST2020
 Fros(1000 + 16)   3 - 0   Sxmi(960 - 16)  GOST2020
 ExodePendragon(1146 + 14)   3 - 2   slxf(1069 - 14)  GOST2020
 Shaxd(1226 + 9)   3 - 0   HDredHDH3X(1068 - 9)  GOST2020
-100YearsPrior(1014 + 20)   3 - 1   oompaloompabody(1020 - 20)  GOST2020
+EhBacon(1014 + 20)   3 - 1   oompaloompabody(1020 - 20)  GOST2020
 Dissentra(1000 + 9)   3 - 0   Josher(847 - 9)  GOST2020
 ShadowFlames(1090 + 13)   3 - 0   Zolbmth(996 - 13)  GOST2020
 jvey(1065 + 14)   3 - 0   DreamEagle_(989 - 14)  GOST2020
@@ -1029,7 +1028,7 @@ Skroks(1162 + 9)   3 - 0   Fros(1016 - 9)  GOST2020
 Floras(1157 + 11)   3 - 1   ____Richard____(1032 - 11)  GOST2020
 GSPoland(1085 + 13)   3 - 0   sado(1000 - 13)  GOST2020
 100YearsLater(956 + 34)   3 - 1   Chuggins(1189 - 34)  GOST2020    Top10 Win 
-caiitt(982 + 20)   3 - 0   r0eb0at(994 - 20)  GOST2020
+caiitt(959 + 22)   3 - 0   r0eb0at(994 - 22)  GOST2020
 aQuickSloth(997 + 20)   3 - 0   hettic(1000 - 20)  GOST2020
 Saltren(1032 + 18)   3 - 2   Ephisa(1017 - 18)  GOST2020
 Pebbals(933 + 25)   3 - 1   Steephanie(1000 - 25)  GOST2020
@@ -1052,9 +1051,15 @@ Aggressive(1174 + 11)   4 - 2   Saltren(1050 - 11)  GOST2020
 Floras(1168 + 20)   4 - 0   Skroks(1171 - 20)  GOST2020    Top10 Win 
 Mayrino(1000 + 20)   3 - 0   Rcbb(1000 - 20)  GOST2020
 Mayrino(1020 + 19)   3 - 1   okaxel(1018 - 19)  GOST2020
-100YearsPrior(1034 + 20)   4 - 0   Mayrino(1039 - 20)  GOST2020
+EhBacon(1034 + 20)   4 - 0   Mayrino(1039 - 20)  GOST2020
 Shaxd(1245 + 8)   4 - 0   Arrhys(1067 - 8)  GOST2020
 jvey(1097 + 26)   4 - 3   Aggressive(1185 - 26)  GOST2020    Top10 Win 
-100YearsPrior(1054 + 29)   4 - 3   Floras(1188 - 29)  GOST2020    Top10 Win 
-100YearsPrior(1083 + 23)   5 - 3   jvey(1123 - 23)  GOST2020
+EhBacon(1054 + 29)   4 - 3   Floras(1188 - 29)  GOST2020    Top10 Win 
+EhBacon(1083 + 23)   5 - 3   jvey(1123 - 23)  GOST2020
 Shaxd(1253 + 11)   4 - 2   GSPoland(1128 - 11)  GOST2020
+Minewers(1000 + 12)   3 - 1   Neil_(903 - 12)  GOST2020
+caiitt(981 + 22)   4 - 2   Minewers(1012 - 22)  GOST2020
+caiitt(1003 + 21)   4 - 2   100YearsLater(1029 - 21)  GOST2020
+Shaxd(1264 + 5)   5 - 1   caiitt(1024 - 5)  GOST2020
+caiitt(1019 + 26)   5 - 4   jvey(1100 - 26)  GOST2020
+EhBacon(1106 + 31)   5 - 3   Shaxd(1269 - 31)  GOST2020    Top10 Win 
